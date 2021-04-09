@@ -20,14 +20,14 @@ request.addTour(tour)
 prefixForIP = "192.168.1."
 link = request.LAN("lan")
 
-num_nodes = 3
+num_nodes = 1
 for i in range(num_nodes):
   if i == 0:
-    node = request.XenVM("head")
+    node = request.rawPC("node")
   else:
     node = request.XenVM("worker-" + str(i))
-  node.cores = 12#node.cores = 4
-  node.ram = 32768#node.ram = 8192
+  #node.cores = 12#node.cores = 4
+  #node.ram = 32768#node.ram = 8192
   node.routable_control_ip = "true" 
   node.disk_image = "urn:publicid:IDN+emulab.net+image+emulab-ops:UBUNTU18-64-STD"
   iface = node.addInterface("if" + str(i))
