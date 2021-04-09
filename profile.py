@@ -23,7 +23,7 @@ link = request.LAN("lan")
 num_nodes = 1
 for i in range(num_nodes):
   if i == 0:
-    node = request.rawPC("node")
+    node = request.RawPC("node")
   else:
     node = request.XenVM("worker-" + str(i))
   #node.cores = 12#node.cores = 4
