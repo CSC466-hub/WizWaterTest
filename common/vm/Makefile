@@ -4,10 +4,12 @@ all: ubuntu-13.10-server-cloudimg-amd64-disk1.img seed.img play.img
 
 # download a clean VM image
 ubuntu-13.10-server-cloudimg-amd64-disk1.img: 
-	wget http://cloud-images.ubuntu.com/releases/13.10/release-20140409.1/ubuntu-13.10-server-cloudimg-amd64-disk1.img
+	#wget http://cloud-images.ubuntu.com/releases/13.10/release-20140409.1/ubuntu-13.10-server-cloudimg-amd64-disk1.img
+	wget http://cloud-images-archive.ubuntu.com/releases/saucy/release-20140709/ubuntu-13.10-server-cloudimg-amd64-disk1.img
 
 ubuntu-14.04-server-cloudimg-amd64-disk1.img:
-	wget http://cloud-images.ubuntu.com/releases/14.04/release-20140416.1/ubuntu-14.04-server-cloudimg-amd64-disk1.img
+	#wget http://cloud-images.ubuntu.com/releases/14.04/release-20140416.1/ubuntu-14.04-server-cloudimg-amd64-disk1.img
+	wget http://cloud-images-archive.ubuntu.com/releases/trusty/release-20140416.1/ubuntu-14.04-server-cloudimg-amd64-disk1.img
 
 # convert user data into an ISO image
 seed.img: user-data
