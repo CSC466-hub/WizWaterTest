@@ -11,11 +11,17 @@ We chose the performance evaluation of virtualization approaches project. We wil
 Stream on docker:
 
 set_mempolicy: operation not permitted
+
 local allocation: operation not permitted
+
 error: no such container stream:latest
+
 (it did build the container though)
 
 Stream on KVM:
+
 seed.img: user-data
+
     cloud-localds seed.img user-data
+
 make: cloud-localds: Command not found
