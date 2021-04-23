@@ -18,10 +18,11 @@ error: no such container stream:latest
 
 (it did build the container though)
 
-Stream on KVM:
 
+Stream on KVM:
+#convert user data into an ISO image
 seed.img: user-data
 
-    cloud-localds seed.img user-data
+   cloud-localds seed.img user-data
 
 make: cloud-localds: Command not found
