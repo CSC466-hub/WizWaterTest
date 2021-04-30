@@ -2,4 +2,4 @@
 
 set -x
 
-docker build -t tutum/ubuntu-saucy -f Dockerfile .
+docker build -t ourtutum -f Dockerfile .
