@@ -1,0 +1,196 @@
+--------------------------------------------------------------------------------
+Running linpack with numaopts <  --physcpubind=0-31 --interleave=0,1  >, started at Fri Apr 30 14:27:40 EDT 2021
+This is a SAMPLE run script for SMP LINPACK. Change it to reflect
+the correct number of CPUs/threads, problem input files, etc..
+Fri Apr 30 14:27:40 EDT 2021
+Intel(R) Optimized LINPACK Benchmark data
+
+Current date/time: Fri Apr 30 14:27:40 2021
+
+CPU frequency:    3.690 GHz
+Number of CPUs: 2
+Number of cores: 32
+Number of threads: 32
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 45000
+Leading dimension of array                  : 45000
+Number of trials to run                     : 10   
+Data alignment value (in Kbytes)            : 1    
+
+Maximum memory requested that can be used=16200901024, at the size=45000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+45000  45000  1      63.507     956.6522 1.160482e-09 2.041746e-02   pass
+45000  45000  1      63.453     957.4659 1.160482e-09 2.041746e-02   pass
+45000  45000  1      63.587     955.4523 1.160482e-09 2.041746e-02   pass
+45000  45000  1      63.614     955.0482 1.160482e-09 2.041746e-02   pass
+45000  45000  1      63.578     955.5782 1.160482e-09 2.041746e-02   pass
+45000  45000  1      63.595     955.3285 1.160482e-09 2.041746e-02   pass
+45000  45000  1      63.621     954.9424 1.160482e-09 2.041746e-02   pass
+45000  45000  1      63.527     956.3425 1.160482e-09 2.041746e-02   pass
+45000  45000  1      63.606     955.1688 1.160482e-09 2.041746e-02   pass
+45000  45000  1      63.582     955.5196 1.160482e-09 2.041746e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+45000  45000  1       955.7499 957.4659
+
+Residual checks PASSED
+
+End of tests
+
+Done: Fri Apr 30 14:52:54 EDT 2021
+
+--------------------------------------------------------------------------------
+Running linpack with numaopts <  --physcpubind=0-31 --interleave=0,1  >, started at Fri Apr 30 14:52:54 EDT 2021
+This is a SAMPLE run script for SMP LINPACK. Change it to reflect
+the correct number of CPUs/threads, problem input files, etc..
+Fri Apr 30 14:52:54 EDT 2021
+Intel(R) Optimized LINPACK Benchmark data
+
+Current date/time: Fri Apr 30 14:52:54 2021
+
+CPU frequency:    3.690 GHz
+Number of CPUs: 2
+Number of cores: 32
+Number of threads: 32
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 45000
+Leading dimension of array                  : 45000
+Number of trials to run                     : 10   
+Data alignment value (in Kbytes)            : 1    
+
+Maximum memory requested that can be used=16200901024, at the size=45000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+45000  45000  1      63.508     956.6392 1.160482e-09 2.041746e-02   pass
+45000  45000  1      63.313     959.5855 1.160482e-09 2.041746e-02   pass
+45000  45000  1      63.356     958.9296 1.160482e-09 2.041746e-02   pass
+45000  45000  1      63.411     958.1057 1.160482e-09 2.041746e-02   pass
+45000  45000  1      63.377     958.6136 1.160482e-09 2.041746e-02   pass
+45000  45000  1      63.335     959.2552 1.160482e-09 2.041746e-02   pass
+45000  45000  1      63.367     958.7621 1.160482e-09 2.041746e-02   pass
+45000  45000  1      63.264     960.3319 1.160482e-09 2.041746e-02   pass
+45000  45000  1      63.340     959.1810 1.160482e-09 2.041746e-02   pass
+45000  45000  1      63.343     959.1302 1.160482e-09 2.041746e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+45000  45000  1       958.8534 960.3319
+
+Residual checks PASSED
+
+End of tests
+
+Done: Fri Apr 30 15:18:06 EDT 2021
+
+--------------------------------------------------------------------------------
+Running linpack with numaopts <  --physcpubind=0-7,16-23 --localalloc  >, started at Fri Apr 30 16:08:39 EDT 2021
+This is a SAMPLE run script for SMP LINPACK. Change it to reflect
+the correct number of CPUs/threads, problem input files, etc..
+Fri Apr 30 16:08:39 EDT 2021
+Intel(R) Optimized LINPACK Benchmark data
+
+Current date/time: Fri Apr 30 16:08:39 2021
+
+CPU frequency:    3.690 GHz
+Number of CPUs: 2
+Number of cores: 32
+Number of threads: 16
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 45000
+Leading dimension of array                  : 45000
+Number of trials to run                     : 10   
+Data alignment value (in Kbytes)            : 1    
+
+Maximum memory requested that can be used=16200901024, at the size=45000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+45000  45000  1      97.088     625.7651 1.183147e-09 2.081622e-02   pass
+45000  45000  1      94.343     643.9729 1.183147e-09 2.081622e-02   pass
+45000  45000  1      93.929     646.8064 1.183147e-09 2.081622e-02   pass
+45000  45000  1      93.620     648.9414 1.183147e-09 2.081622e-02   pass
+45000  45000  1      94.351     643.9134 1.183147e-09 2.081622e-02   pass
+45000  45000  1      94.007     646.2743 1.183147e-09 2.081622e-02   pass
+45000  45000  1      93.390     650.5381 1.183147e-09 2.081622e-02   pass
+45000  45000  1      93.691     648.4538 1.183147e-09 2.081622e-02   pass
+45000  45000  1      93.977     646.4781 1.183147e-09 2.081622e-02   pass
+45000  45000  1      94.239     644.6793 1.183147e-09 2.081622e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+45000  45000  1       644.5823 650.5381
+
+Residual checks PASSED
+
+End of tests
+
+Done: Fri Apr 30 16:38:47 EDT 2021
+
+--------------------------------------------------------------------------------
+Running linpack with numaopts <  --physcpubind=0-7,16-23 --localalloc  >, started at Fri Apr 30 16:38:47 EDT 2021
+This is a SAMPLE run script for SMP LINPACK. Change it to reflect
+the correct number of CPUs/threads, problem input files, etc..
+Fri Apr 30 16:38:47 EDT 2021
+Intel(R) Optimized LINPACK Benchmark data
+
+Current date/time: Fri Apr 30 16:38:47 2021
+
+CPU frequency:    3.690 GHz
+Number of CPUs: 2
+Number of cores: 32
+Number of threads: 16
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 45000
+Leading dimension of array                  : 45000
+Number of trials to run                     : 10   
+Data alignment value (in Kbytes)            : 1    
+
+Maximum memory requested that can be used=16200901024, at the size=45000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+45000  45000  1      96.916     626.8728 1.183147e-09 2.081622e-02   pass
+45000  45000  1      94.183     645.0632 1.183147e-09 2.081622e-02   pass
+45000  45000  1      93.286     651.2662 1.183147e-09 2.081622e-02   pass
+45000  45000  1      93.143     652.2670 1.183147e-09 2.081622e-02   pass
+45000  45000  1      93.403     650.4477 1.183147e-09 2.081622e-02   pass
+45000  45000  1      93.027     653.0783 1.183147e-09 2.081622e-02   pass
+45000  45000  1      93.296     651.1941 1.183147e-09 2.081622e-02   pass
+45000  45000  1      93.581     649.2158 1.183147e-09 2.081622e-02   pass
+45000  45000  1      93.021     653.1185 1.183147e-09 2.081622e-02   pass
+45000  45000  1      93.670     648.5983 1.183147e-09 2.081622e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+45000  45000  1       648.1122 653.1185
+
+Residual checks PASSED
+
+End of tests
+
+Done: Fri Apr 30 17:08:46 EDT 2021
+
