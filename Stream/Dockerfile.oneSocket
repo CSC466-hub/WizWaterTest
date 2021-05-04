@@ -2,8 +2,6 @@
 # fair comparison 
 FROM ourtutum
 
-#sudo sed -i s/old-releases.ubuntu.com/ubuntu saucy-security/security.ubuntu.com/ubuntu bionic-security/g /etc/apt/sources.list
-
 RUN apt-get -qq install -y libgomp1 numactl
 ADD bin /
 CMD numactl --physcpubind=0-7,16-23 --localalloc /stream.exe
