@@ -17,23 +17,24 @@ tour = IG.Tour()
 tour.Description(IG.Tour.TEXT,tourDescription)
 request.addTour(tour)
 
-#prefixForIP = "192.168.1."
-#link = request.LAN("lan")
+prefixForIP = "192.168.1."
+link = request.LAN("lan")
 
-num_nodes = 1
+num_nodes = 2
 for i in range(num_nodes):
   if i == 0:
-    node = request.RawPC("node")
+    node = request.RawPC("arldcn28")
   else:
-    node = request.XenVM("worker-" + str(i))
+    node = request.RawPC("arldcn24")
+    #node = request.XenVM("worker-" + str(i))
   #node.cores = 12#node.cores = 4
   #node.ram = 32768#node.ram = 8192
-  #node.routable_control_ip = "true" 
+  node.routable_control_ip = "true" 
   node.disk_image = "urn:publicid:IDN+emulab.net+image+emulab-ops:UBUNTU18-64-STD"
-  #iface = node.addInterface("if" + str(i))
-  #iface.component_id = "eth1"
-  #iface.addAddress(pg.IPv4Address(prefixForIP + str(i + 1), "255.255.255.0"))
-  #link.addInterface(iface)
+  iface = node.addInterface("if" + str(i))
+  iface.component_id = "eth1"
+  iface.addAddress(pg.IPv4Address(prefixForIP + str(i + 1), "255.255.255.0"))
+  link.addInterface(iface)
   
   # setup Docker
   node.addService(pg.Execute(shell="sh", command="sudo bash /local/repository/install_docker.sh"))
