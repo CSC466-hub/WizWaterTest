@@ -25,8 +25,8 @@ DIR=`pwd`
 ssh $CLIENT docker build -t nuttcp $DIR
 
 # transmit client->server
-#echo "client to server (native)"
-#ssh $CLIENT sudo perf stat -a nuttcp -t 10.71.0.28
+echo "client to server (native)"
+ssh $CLIENT sudo perf stat -a nuttcp -t 10.71.0.28
 
 echo "client to server (Docker NAT)"
 ssh $CLIENT sudo perf stat -a docker run nuttcp -t 10.71.0.28
