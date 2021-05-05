@@ -7,7 +7,7 @@ MAINTAINER Wes Felter, wmf@us.ibm.com
 RUN apt-get update
 RUN apt-get install -y netperf
 
-COPY netserver /usr/bin/netserver
+#COPY netserver /usr/bin/netserver
 
 ENTRYPOINT ["netserver", "-v", "-p", "12865"]
 EXPOSE 12865
