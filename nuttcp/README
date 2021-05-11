@@ -1,7 +1,16 @@
 This is nuttcp, a versatile network microbenchmark
 
-VM (run on arldcn24)
-	./vm.sh
+To test native linux performance and docker performance:
 
-Docker (run anywhere; it will ssh to the testbed)
-	./docker.sh
+Choose either arldcn24 or arldcn28 as the server.
+Run sudo bash doitServer.sh on the chosen server.
+
+Then run doit.sh on the other node.
+
+After completion you must kill the nuttcp process on the server.
+By design nuttcp server processes fork themselves into the background and continue until killed.
+
+killall nuttcp
+
+If you wish to only test native or only docker performance the scripts are seperated in the doit.sh file, and you can comment out one or the other.
+Running only one or two tests is also possible as the scripts exist in indpendent files.
