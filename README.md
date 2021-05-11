@@ -1,12 +1,12 @@
 # csc468
-# Anthony Sigismonti
-# Chin Cheung
-# John Lysle
-# Liam Congleton
+**Anthony Sigismonti**
+**Chin Cheung**
+**John Lysle**
+**Liam Congleton**
 
-We chose the performance evaluation of virtualization approaches project. We will run multiple tests for the performance of different virtualization methods and record the result. These tests will be performed on different architectures to see how they vary.
+## We chose the performance evaluation of virtualization approaches project. We will run multiple tests for the performance of different virtualization methods and record the result. These tests will be performed on different architectures to see how they vary.
 
-#Getting started
+# Getting started
 Make sure that the script setupSaucy.sh ran.
 All dockerfiles in our tests rely on the image it creates.
 Cloudlab does not like the script, so run "sudo docker image ls"
