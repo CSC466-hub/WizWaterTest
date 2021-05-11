@@ -1,5 +1,5 @@
 #!/bin/bash
 
-sudo apt-get install nuttcp
+sudo apt-get install -y nuttcp
 
 nuttcp -S
