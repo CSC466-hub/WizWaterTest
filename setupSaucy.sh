@@ -2,4 +2,4 @@
 
 set -x
 
-docker build -t ourtutum -f Dockerfile .
+sudo docker build -t ourtutum -f Dockerfile .
