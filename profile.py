@@ -38,5 +38,5 @@ for i in range(num_nodes):
   
   # setup Docker
   node.addService(pg.Execute(shell="sh", command="sudo bash /local/repository/install_docker.sh"))
-  node.addService(pg.Execute(shell="sh", command="sudo bash /local/repository/setupSaucy.sh"))
+  node.addService(pg.Execute(shell="sh", command="sudo bash /local/repository/setuptutum.sh"))
 pc.printRequestRSpec(request)
