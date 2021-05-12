@@ -1,0 +1,400 @@
+--------------------------------------------------------------------------------
+client to server (native), started at Tue May 11 11:05:08 EDT 2021
+11226.1151 MB /  10.00 sec = 9414.2935 Mbps 12 %TX 32 %RX 0 retrans 0.15 msRTT
+# started on Tue May 11 11:05:08 2021
+
+
+ Performance counter stats for 'system wide':
+
+     643699.485986      cpu-clock (msec)          #   63.859 CPUs utilized          
+            23,082      context-switches          #    0.036 K/sec                  
+                24      cpu-migrations            #    0.000 K/sec                  
+                21      page-faults               #    0.000 K/sec                  
+     6,895,678,099      cycles                    #    0.011 GHz                    
+     5,864,083,583      instructions              #    0.85  insn per cycle         
+     1,131,904,490      branches                  #    1.758 M/sec                  
+        23,373,479      branch-misses             #    2.06% of all branches        
+
+      10.080022082 seconds time elapsed
+
+
+--------------------------------------------------------------------------------
+client to server (native), started at Tue May 11 11:05:19 EDT 2021
+11225.5000 MB /  10.00 sec = 9413.6459 Mbps 13 %TX 19 %RX 0 retrans 0.14 msRTT
+# started on Tue May 11 11:05:19 2021
+
+
+ Performance counter stats for 'system wide':
+
+     643665.334647      cpu-clock (msec)          #   63.859 CPUs utilized          
+            22,957      context-switches          #    0.036 K/sec                  
+                15      cpu-migrations            #    0.000 K/sec                  
+               242      page-faults               #    0.000 K/sec                  
+     6,734,679,952      cycles                    #    0.010 GHz                    
+     5,877,502,177      instructions              #    0.87  insn per cycle         
+     1,135,456,222      branches                  #    1.764 M/sec                  
+        23,904,106      branch-misses             #    2.11% of all branches        
+
+      10.079439217 seconds time elapsed
+
+
+--------------------------------------------------------------------------------
+client to server (native), started at Tue May 11 11:05:29 EDT 2021
+11225.4509 MB /  10.00 sec = 9413.8297 Mbps 10 %TX 19 %RX 0 retrans 0.15 msRTT
+# started on Tue May 11 11:05:29 2021
+
+
+ Performance counter stats for 'system wide':
+
+     643673.340103      cpu-clock (msec)          #   63.860 CPUs utilized          
+            23,769      context-switches          #    0.037 K/sec                  
+                18      cpu-migrations            #    0.000 K/sec                  
+                21      page-faults               #    0.000 K/sec                  
+     6,859,800,927      cycles                    #    0.011 GHz                    
+     5,959,048,246      instructions              #    0.87  insn per cycle         
+     1,152,619,041      branches                  #    1.791 M/sec                  
+        23,383,566      branch-misses             #    2.03% of all branches        
+
+      10.079419657 seconds time elapsed
+
+
+--------------------------------------------------------------------------------
+client to server (native), started at Tue May 11 11:05:39 EDT 2021
+11226.3571 MB /  10.00 sec = 9414.3430 Mbps 12 %TX 32 %RX 0 retrans 0.13 msRTT
+# started on Tue May 11 11:05:40 2021
+
+
+ Performance counter stats for 'system wide':
+
+     643676.388853      cpu-clock (msec)          #   63.858 CPUs utilized          
+            22,913      context-switches          #    0.036 K/sec                  
+                12      cpu-migrations            #    0.000 K/sec                  
+                16      page-faults               #    0.000 K/sec                  
+     6,639,699,407      cycles                    #    0.010 GHz                    
+     5,869,554,369      instructions              #    0.88  insn per cycle         
+     1,134,002,528      branches                  #    1.762 M/sec                  
+        23,939,393      branch-misses             #    2.11% of all branches        
+
+      10.079736122 seconds time elapsed
+
+
+--------------------------------------------------------------------------------
+client to server (native), started at Tue May 11 11:05:50 EDT 2021
+11225.9080 MB /  10.00 sec = 9414.1330 Mbps 13 %TX 20 %RX 0 retrans 0.19 msRTT
+# started on Tue May 11 11:05:50 2021
+
+
+ Performance counter stats for 'system wide':
+
+     643650.078575      cpu-clock (msec)          #   63.859 CPUs utilized          
+            22,635      context-switches          #    0.035 K/sec                  
+                21      cpu-migrations            #    0.000 K/sec                  
+                15      page-faults               #    0.000 K/sec                  
+     6,809,491,101      cycles                    #    0.011 GHz                    
+     5,890,226,756      instructions              #    0.87  insn per cycle         
+     1,137,546,152      branches                  #    1.767 M/sec                  
+        23,894,582      branch-misses             #    2.10% of all branches        
+
+      10.079302602 seconds time elapsed
+
+
+--------------------------------------------------------------------------------
+client to server (native), started at Tue May 11 11:06:00 EDT 2021
+11226.3609 MB /  10.05 sec = 9373.6896 Mbps 12 %TX 19 %RX 0 retrans 0.18 msRTT
+# started on Tue May 11 11:06:00 2021
+
+
+ Performance counter stats for 'system wide':
+
+     646455.407731      cpu-clock (msec)          #   63.860 CPUs utilized          
+            23,174      context-switches          #    0.036 K/sec                  
+                14      cpu-migrations            #    0.000 K/sec                  
+                23      page-faults               #    0.000 K/sec                  
+     6,861,134,231      cycles                    #    0.011 GHz                    
+     5,913,470,425      instructions              #    0.86  insn per cycle         
+     1,141,722,106      branches                  #    1.766 M/sec                  
+        23,567,435      branch-misses             #    2.06% of all branches        
+
+      10.123009065 seconds time elapsed
+
+
+--------------------------------------------------------------------------------
+client to server (native), started at Tue May 11 11:06:11 EDT 2021
+11224.0769 MB /  10.00 sec = 9412.5325 Mbps 12 %TX 19 %RX 0 retrans 0.18 msRTT
+# started on Tue May 11 11:06:11 2021
+
+
+ Performance counter stats for 'system wide':
+
+     643675.858412      cpu-clock (msec)          #   63.859 CPUs utilized          
+            23,097      context-switches          #    0.036 K/sec                  
+                23      cpu-migrations            #    0.000 K/sec                  
+                15      page-faults               #    0.000 K/sec                  
+     7,944,670,073      cycles                    #    0.012 GHz                    
+     6,017,844,428      instructions              #    0.76  insn per cycle         
+     1,164,256,036      branches                  #    1.809 M/sec                  
+        24,086,075      branch-misses             #    2.07% of all branches        
+
+      10.079677385 seconds time elapsed
+
+
+--------------------------------------------------------------------------------
+client to server (native), started at Tue May 11 11:06:21 EDT 2021
+11225.8155 MB /  10.00 sec = 9413.7928 Mbps 13 %TX 32 %RX 0 retrans 0.12 msRTT
+# started on Tue May 11 11:06:21 2021
+
+
+ Performance counter stats for 'system wide':
+
+     643672.077332      cpu-clock (msec)          #   63.861 CPUs utilized          
+            22,669      context-switches          #    0.035 K/sec                  
+                21      cpu-migrations            #    0.000 K/sec                  
+                21      page-faults               #    0.000 K/sec                  
+    18,832,125,539      cycles                    #    0.029 GHz                    
+     6,242,906,227      instructions              #    0.33  insn per cycle         
+     1,208,670,561      branches                  #    1.878 M/sec                  
+        23,602,752      branch-misses             #    1.95% of all branches        
+
+      10.079327910 seconds time elapsed
+
+
+--------------------------------------------------------------------------------
+client to server (native), started at Tue May 11 11:06:31 EDT 2021
+11226.2850 MB /  10.00 sec = 9413.3302 Mbps 13 %TX 32 %RX 0 retrans 0.18 msRTT
+# started on Tue May 11 11:06:32 2021
+
+
+ Performance counter stats for 'system wide':
+
+     643727.552297      cpu-clock (msec)          #   63.863 CPUs utilized          
+            23,000      context-switches          #    0.036 K/sec                  
+                 7      cpu-migrations            #    0.000 K/sec                  
+                 9      page-faults               #    0.000 K/sec                  
+     6,811,945,336      cycles                    #    0.011 GHz                    
+     5,865,775,153      instructions              #    0.86  insn per cycle         
+     1,132,687,189      branches                  #    1.760 M/sec                  
+        23,768,075      branch-misses             #    2.10% of all branches        
+
+      10.079831642 seconds time elapsed
+
+
+--------------------------------------------------------------------------------
+client to server (native), started at Tue May 11 11:06:42 EDT 2021
+11225.8750 MB /  10.00 sec = 9414.1618 Mbps 12 %TX 28 %RX 0 retrans 0.13 msRTT
+# started on Tue May 11 11:06:42 2021
+
+
+ Performance counter stats for 'system wide':
+
+     643676.632196      cpu-clock (msec)          #   63.858 CPUs utilized          
+            22,794      context-switches          #    0.035 K/sec                  
+                13      cpu-migrations            #    0.000 K/sec                  
+               152      page-faults               #    0.000 K/sec                  
+     6,787,333,988      cycles                    #    0.011 GHz                    
+     5,686,915,860      instructions              #    0.84  insn per cycle         
+     1,100,034,153      branches                  #    1.709 M/sec                  
+        22,133,682      branch-misses             #    2.01% of all branches        
+
+      10.079746961 seconds time elapsed
+
+
+--------------------------------------------------------------------------------
+client to server (native), started at Tue May 11 11:06:52 EDT 2021
+11225.7500 MB /  10.00 sec = 9413.8838 Mbps 12 %TX 19 %RX 0 retrans 0.15 msRTT
+# started on Tue May 11 11:06:52 2021
+
+
+ Performance counter stats for 'system wide':
+
+     643659.709181      cpu-clock (msec)          #   63.859 CPUs utilized          
+            23,008      context-switches          #    0.036 K/sec                  
+                18      cpu-migrations            #    0.000 K/sec                  
+                24      page-faults               #    0.000 K/sec                  
+     6,833,345,293      cycles                    #    0.011 GHz                    
+     5,894,009,301      instructions              #    0.86  insn per cycle         
+     1,137,963,030      branches                  #    1.768 M/sec                  
+        23,545,823      branch-misses             #    2.07% of all branches        
+
+      10.079381325 seconds time elapsed
+
+
+--------------------------------------------------------------------------------
+client to server (native), started at Tue May 11 11:07:02 EDT 2021
+11226.0202 MB /  10.00 sec = 9413.9090 Mbps 13 %TX 31 %RX 0 retrans 0.17 msRTT
+# started on Tue May 11 11:07:03 2021
+
+
+ Performance counter stats for 'system wide':
+
+     643656.748976      cpu-clock (msec)          #   63.862 CPUs utilized          
+            22,785      context-switches          #    0.035 K/sec                  
+                19      cpu-migrations            #    0.000 K/sec                  
+                27      page-faults               #    0.000 K/sec                  
+    14,279,544,222      cycles                    #    0.022 GHz                    
+     6,109,782,258      instructions              #    0.43  insn per cycle         
+     1,181,831,762      branches                  #    1.836 M/sec                  
+        23,297,661      branch-misses             #    1.97% of all branches        
+
+      10.078797331 seconds time elapsed
+
+
+--------------------------------------------------------------------------------
+client to server (native), started at Tue May 11 11:07:13 EDT 2021
+11226.6736 MB /  10.00 sec = 9413.6128 Mbps 12 %TX 32 %RX 0 retrans 0.18 msRTT
+# started on Tue May 11 11:07:13 2021
+
+
+ Performance counter stats for 'system wide':
+
+     643746.521636      cpu-clock (msec)          #   63.860 CPUs utilized          
+            22,885      context-switches          #    0.036 K/sec                  
+                12      cpu-migrations            #    0.000 K/sec                  
+                27      page-faults               #    0.000 K/sec                  
+     6,728,665,213      cycles                    #    0.010 GHz                    
+     5,871,108,303      instructions              #    0.87  insn per cycle         
+     1,134,678,705      branches                  #    1.763 M/sec                  
+        23,308,360      branch-misses             #    2.05% of all branches        
+
+      10.080604630 seconds time elapsed
+
+
+--------------------------------------------------------------------------------
+client to server (native), started at Tue May 11 11:07:23 EDT 2021
+11226.0986 MB /  10.00 sec = 9414.0086 Mbps 12 %TX 31 %RX 0 retrans 0.17 msRTT
+# started on Tue May 11 11:07:23 2021
+
+
+ Performance counter stats for 'system wide':
+
+     643689.548052      cpu-clock (msec)          #   63.859 CPUs utilized          
+            23,014      context-switches          #    0.036 K/sec                  
+                13      cpu-migrations            #    0.000 K/sec                  
+                12      page-faults               #    0.000 K/sec                  
+     6,644,048,710      cycles                    #    0.010 GHz                    
+     5,863,379,054      instructions              #    0.88  insn per cycle         
+     1,133,084,607      branches                  #    1.760 M/sec                  
+        23,231,339      branch-misses             #    2.05% of all branches        
+
+      10.079781175 seconds time elapsed
+
+
+--------------------------------------------------------------------------------
+client to server (native), started at Tue May 11 11:07:33 EDT 2021
+11226.5939 MB /  10.00 sec = 9413.4933 Mbps 12 %TX 32 %RX 0 retrans 0.11 msRTT
+# started on Tue May 11 11:07:34 2021
+
+
+ Performance counter stats for 'system wide':
+
+     643724.661620      cpu-clock (msec)          #   63.858 CPUs utilized          
+            22,782      context-switches          #    0.035 K/sec                  
+                31      cpu-migrations            #    0.000 K/sec                  
+                23      page-faults               #    0.000 K/sec                  
+     6,736,405,067      cycles                    #    0.010 GHz                    
+     5,866,579,667      instructions              #    0.87  insn per cycle         
+     1,132,276,287      branches                  #    1.759 M/sec                  
+        22,812,412      branch-misses             #    2.01% of all branches        
+
+      10.080505863 seconds time elapsed
+
+
+--------------------------------------------------------------------------------
+client to server (native), started at Tue May 11 11:07:44 EDT 2021
+11226.8912 MB /  10.00 sec = 9413.7510 Mbps 12 %TX 31 %RX 0 retrans 0.11 msRTT
+# started on Tue May 11 11:07:44 2021
+
+
+ Performance counter stats for 'system wide':
+
+     643733.906450      cpu-clock (msec)          #   63.859 CPUs utilized          
+            23,022      context-switches          #    0.036 K/sec                  
+                19      cpu-migrations            #    0.000 K/sec                  
+                 8      page-faults               #    0.000 K/sec                  
+     6,827,942,519      cycles                    #    0.011 GHz                    
+     5,825,628,368      instructions              #    0.85  insn per cycle         
+     1,126,489,442      branches                  #    1.750 M/sec                  
+        23,506,497      branch-misses             #    2.09% of all branches        
+
+      10.080493003 seconds time elapsed
+
+
+--------------------------------------------------------------------------------
+client to server (native), started at Tue May 11 11:07:54 EDT 2021
+11226.1607 MB /  10.00 sec = 9414.3534 Mbps 12 %TX 32 %RX 0 retrans 0.14 msRTT
+# started on Tue May 11 11:07:54 2021
+
+
+ Performance counter stats for 'system wide':
+
+     643665.809685      cpu-clock (msec)          #   63.860 CPUs utilized          
+            23,011      context-switches          #    0.036 K/sec                  
+                13      cpu-migrations            #    0.000 K/sec                  
+                11      page-faults               #    0.000 K/sec                  
+     6,979,814,318      cycles                    #    0.011 GHz                    
+     5,871,008,484      instructions              #    0.84  insn per cycle         
+     1,134,324,024      branches                  #    1.762 M/sec                  
+        23,183,520      branch-misses             #    2.04% of all branches        
+
+      10.079317413 seconds time elapsed
+
+
+--------------------------------------------------------------------------------
+client to server (native), started at Tue May 11 11:08:05 EDT 2021
+11225.6125 MB /  10.00 sec = 9412.9404 Mbps 12 %TX 20 %RX 0 retrans 0.13 msRTT
+# started on Tue May 11 11:08:05 2021
+
+
+ Performance counter stats for 'system wide':
+
+     643742.456941      cpu-clock (msec)          #   63.860 CPUs utilized          
+            22,955      context-switches          #    0.036 K/sec                  
+                21      cpu-migrations            #    0.000 K/sec                  
+                 7      page-faults               #    0.000 K/sec                  
+     6,689,050,147      cycles                    #    0.010 GHz                    
+     5,917,965,022      instructions              #    0.88  insn per cycle         
+     1,143,568,530      branches                  #    1.776 M/sec                  
+        23,722,801      branch-misses             #    2.07% of all branches        
+
+      10.080518962 seconds time elapsed
+
+
+--------------------------------------------------------------------------------
+client to server (native), started at Tue May 11 11:08:15 EDT 2021
+11226.7877 MB /  10.00 sec = 9413.7310 Mbps 13 %TX 17 %RX 0 retrans 0.16 msRTT
+# started on Tue May 11 11:08:15 2021
+
+
+ Performance counter stats for 'system wide':
+
+     643738.215636      cpu-clock (msec)          #   63.859 CPUs utilized          
+            23,000      context-switches          #    0.036 K/sec                  
+                24      cpu-migrations            #    0.000 K/sec                  
+               242      page-faults               #    0.000 K/sec                  
+     6,979,806,424      cycles                    #    0.011 GHz                    
+     5,956,775,880      instructions              #    0.85  insn per cycle         
+     1,151,639,840      branches                  #    1.789 M/sec                  
+        23,639,855      branch-misses             #    2.05% of all branches        
+
+      10.080542875 seconds time elapsed
+
+
+--------------------------------------------------------------------------------
+client to server (native), started at Tue May 11 11:08:25 EDT 2021
+11226.4823 MB /  10.00 sec = 9413.4495 Mbps 13 %TX 18 %RX 0 retrans 0.16 msRTT
+# started on Tue May 11 11:08:26 2021
+
+
+ Performance counter stats for 'system wide':
+
+     643725.202198      cpu-clock (msec)          #   63.859 CPUs utilized          
+            23,907      context-switches          #    0.037 K/sec                  
+                18      cpu-migrations            #    0.000 K/sec                  
+                12      page-faults               #    0.000 K/sec                  
+     7,252,143,507      cycles                    #    0.011 GHz                    
+     5,864,329,324      instructions              #    0.81  insn per cycle         
+     1,133,727,444      branches                  #    1.761 M/sec                  
+        23,696,476      branch-misses             #    2.09% of all branches        
+
+      10.080415606 seconds time elapsed
+
+
