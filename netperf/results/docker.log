@@ -8,7 +8,7 @@ bytes  Bytes  bytes    bytes   secs.    per sec
 
 16384  131072 100      200     60.00    38316.98   
 16384  131072
-Running nerperf TCP_RR, started at Tue May 11 16:15:41 EDT 2021
+Running nerperf UDP_RR, started at Tue May 11 16:15:41 EDT 2021
 MIGRATED UDP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.1.1 () port 0 AF_INET : demo : first burst 0
 Local /Remote
 Socket Size   Request  Resp.   Elapsed  Trans.
@@ -28,7 +28,7 @@ bytes  Bytes  bytes    bytes   secs.    per sec
 
 16384  131072 100      200     60.00    38318.82   
 16384  131072
-Running nerperf TCP_RR, started at Tue May 11 16:17:41 EDT 2021
+Running nerperf UDP_RR, started at Tue May 11 16:17:41 EDT 2021
 MIGRATED UDP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.1.1 () port 0 AF_INET : demo : first burst 0
 Local /Remote
 Socket Size   Request  Resp.   Elapsed  Trans.
@@ -48,7 +48,7 @@ bytes  Bytes  bytes    bytes   secs.    per sec
 
 16384  131072 100      200     60.00    38318.14   
 16384  131072
-Running nerperf TCP_RR, started at Tue May 11 16:19:41 EDT 2021
+Running nerperf UDP_RR, started at Tue May 11 16:19:41 EDT 2021
 MIGRATED UDP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.1.1 () port 0 AF_INET : demo : first burst 0
 Local /Remote
 Socket Size   Request  Resp.   Elapsed  Trans.
@@ -68,7 +68,7 @@ bytes  Bytes  bytes    bytes   secs.    per sec
 
 16384  131072 100      200     60.00    38316.43   
 16384  131072
-Running nerperf TCP_RR, started at Tue May 11 16:21:42 EDT 2021
+Running nerperf UDP_RR, started at Tue May 11 16:21:42 EDT 2021
 MIGRATED UDP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.1.1 () port 0 AF_INET : demo : first burst 0
 Local /Remote
 Socket Size   Request  Resp.   Elapsed  Trans.
@@ -88,7 +88,7 @@ bytes  Bytes  bytes    bytes   secs.    per sec
 
 16384  131072 100      200     60.00    38318.17   
 16384  131072
-Running nerperf TCP_RR, started at Tue May 11 16:23:42 EDT 2021
+Running nerperf UDP_RR, started at Tue May 11 16:23:42 EDT 2021
 MIGRATED UDP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.1.1 () port 0 AF_INET : demo : first burst 0
 Local /Remote
 Socket Size   Request  Resp.   Elapsed  Trans.
@@ -108,7 +108,7 @@ bytes  Bytes  bytes    bytes   secs.    per sec
 
 16384  131072 100      200     60.00    38318.68   
 16384  131072
-Running nerperf TCP_RR, started at Tue May 11 16:25:42 EDT 2021
+Running nerperf UDP_RR, started at Tue May 11 16:25:42 EDT 2021
 MIGRATED UDP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.1.1 () port 0 AF_INET : demo : first burst 0
 Local /Remote
 Socket Size   Request  Resp.   Elapsed  Trans.
@@ -128,7 +128,7 @@ bytes  Bytes  bytes    bytes   secs.    per sec
 
 16384  131072 100      200     60.00    38317.71   
 16384  131072
-Running nerperf TCP_RR, started at Tue May 11 16:27:42 EDT 2021
+Running nerperf UDP_RR, started at Tue May 11 16:27:42 EDT 2021
 MIGRATED UDP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.1.1 () port 0 AF_INET : demo : first burst 0
 Local /Remote
 Socket Size   Request  Resp.   Elapsed  Trans.
@@ -148,7 +148,7 @@ bytes  Bytes  bytes    bytes   secs.    per sec
 
 16384  131072 100      200     60.00    38317.19   
 16384  131072
-Running nerperf TCP_RR, started at Tue May 11 16:29:42 EDT 2021
+Running nerperf UDP_RR, started at Tue May 11 16:29:42 EDT 2021
 MIGRATED UDP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.1.1 () port 0 AF_INET : demo : first burst 0
 Local /Remote
 Socket Size   Request  Resp.   Elapsed  Trans.
@@ -168,7 +168,7 @@ bytes  Bytes  bytes    bytes   secs.    per sec
 
 16384  131072 100      200     60.00    38312.65   
 16384  131072
-Running nerperf TCP_RR, started at Tue May 11 16:31:42 EDT 2021
+Running nerperf UDP_RR, started at Tue May 11 16:31:42 EDT 2021
 MIGRATED UDP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.1.1 () port 0 AF_INET : demo : first burst 0
 Local /Remote
 Socket Size   Request  Resp.   Elapsed  Trans.
@@ -188,7 +188,7 @@ bytes  Bytes  bytes    bytes   secs.    per sec
 
 16384  131072 100      200     60.00    38319.43   
 16384  131072
-Running nerperf TCP_RR, started at Tue May 11 16:33:42 EDT 2021
+Running nerperf UDP_RR, started at Tue May 11 16:33:42 EDT 2021
 MIGRATED UDP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.1.1 () port 0 AF_INET : demo : first burst 0
 Local /Remote
 Socket Size   Request  Resp.   Elapsed  Trans.
@@ -208,7 +208,7 @@ bytes  Bytes  bytes    bytes   secs.    per sec
 
 16384  131072 100      200     60.00    38319.15   
 16384  131072
-Running nerperf TCP_RR, started at Tue May 11 16:35:42 EDT 2021
+Running nerperf UDP_RR, started at Tue May 11 16:35:42 EDT 2021
 MIGRATED UDP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.1.1 () port 0 AF_INET : demo : first burst 0
 Local /Remote
 Socket Size   Request  Resp.   Elapsed  Trans.
@@ -228,7 +228,7 @@ bytes  Bytes  bytes    bytes   secs.    per sec
 
 16384  131072 100      200     60.00    38319.73   
 16384  131072
-Running nerperf TCP_RR, started at Tue May 11 16:37:42 EDT 2021
+Running nerperf UDP_RR, started at Tue May 11 16:37:42 EDT 2021
 MIGRATED UDP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.1.1 () port 0 AF_INET : demo : first burst 0
 Local /Remote
 Socket Size   Request  Resp.   Elapsed  Trans.
@@ -248,7 +248,7 @@ bytes  Bytes  bytes    bytes   secs.    per sec
 
 16384  131072 100      200     60.00    38313.85   
 16384  131072
-Running nerperf TCP_RR, started at Tue May 11 16:39:42 EDT 2021
+Running nerperf UDP_RR, started at Tue May 11 16:39:42 EDT 2021
 MIGRATED UDP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.1.1 () port 0 AF_INET : demo : first burst 0
 Local /Remote
 Socket Size   Request  Resp.   Elapsed  Trans.
@@ -268,7 +268,7 @@ bytes  Bytes  bytes    bytes   secs.    per sec
 
 16384  131072 100      200     60.00    38319.70   
 16384  131072
-Running nerperf TCP_RR, started at Tue May 11 16:41:42 EDT 2021
+Running nerperf UDP_RR, started at Tue May 11 16:41:42 EDT 2021
 MIGRATED UDP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.1.1 () port 0 AF_INET : demo : first burst 0
 Local /Remote
 Socket Size   Request  Resp.   Elapsed  Trans.
@@ -288,7 +288,7 @@ bytes  Bytes  bytes    bytes   secs.    per sec
 
 16384  131072 100      200     60.00    38316.37   
 16384  131072
-Running nerperf TCP_RR, started at Tue May 11 16:43:42 EDT 2021
+Running nerperf UDP_RR, started at Tue May 11 16:43:42 EDT 2021
 MIGRATED UDP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.1.1 () port 0 AF_INET : demo : first burst 0
 Local /Remote
 Socket Size   Request  Resp.   Elapsed  Trans.
@@ -308,7 +308,7 @@ bytes  Bytes  bytes    bytes   secs.    per sec
 
 16384  131072 100      200     60.00    38318.58   
 16384  131072
-Running nerperf TCP_RR, started at Tue May 11 16:45:42 EDT 2021
+Running nerperf UDP_RR, started at Tue May 11 16:45:42 EDT 2021
 MIGRATED UDP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.1.1 () port 0 AF_INET : demo : first burst 0
 Local /Remote
 Socket Size   Request  Resp.   Elapsed  Trans.
@@ -328,7 +328,7 @@ bytes  Bytes  bytes    bytes   secs.    per sec
 
 16384  131072 100      200     60.00    38315.25   
 16384  131072
-Running nerperf TCP_RR, started at Tue May 11 16:47:42 EDT 2021
+Running nerperf UDP_RR, started at Tue May 11 16:47:42 EDT 2021
 MIGRATED UDP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.1.1 () port 0 AF_INET : demo : first burst 0
 Local /Remote
 Socket Size   Request  Resp.   Elapsed  Trans.
@@ -348,7 +348,7 @@ bytes  Bytes  bytes    bytes   secs.    per sec
 
 16384  131072 100      200     60.00    38320.17   
 16384  131072
-Running nerperf TCP_RR, started at Tue May 11 16:49:42 EDT 2021
+Running nerperf UDP_RR, started at Tue May 11 16:49:42 EDT 2021
 MIGRATED UDP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.1.1 () port 0 AF_INET : demo : first burst 0
 Local /Remote
 Socket Size   Request  Resp.   Elapsed  Trans.
@@ -368,7 +368,7 @@ bytes  Bytes  bytes    bytes   secs.    per sec
 
 16384  131072 100      200     60.00    38316.87   
 16384  131072
-Running nerperf TCP_RR, started at Tue May 11 16:51:42 EDT 2021
+Running nerperf UDP_RR, started at Tue May 11 16:51:42 EDT 2021
 MIGRATED UDP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.1.1 () port 0 AF_INET : demo : first burst 0
 Local /Remote
 Socket Size   Request  Resp.   Elapsed  Trans.
@@ -388,7 +388,7 @@ bytes  Bytes  bytes    bytes   secs.    per sec
 
 16384  131072 100      200     60.00    38317.67   
 16384  131072
-Running nerperf TCP_RR, started at Tue May 11 16:53:43 EDT 2021
+Running nerperf UDP_RR, started at Tue May 11 16:53:43 EDT 2021
 MIGRATED UDP REQUEST/RESPONSE TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.1.1 () port 0 AF_INET : demo : first burst 0
 Local /Remote
 Socket Size   Request  Resp.   Elapsed  Trans.
